@@ -1,4 +1,7 @@
 User-agent: *
 Allow: /
+Disallow: /backup-v11-dark.html
+Disallow: /index-backup-v13-prelogo.html
+Disallow: /index-backup-v14-precolour.html
 
 Sitemap: https://cantexadvisory.com/sitemap.xml
